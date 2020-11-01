@@ -1,0 +1,403 @@
+Creating JWT using RS256 from private key file rsa_private.pem
+Publishing message 1 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273528, 'temperature': 15.80888889949552}'
+('on_connect', '0: No error.')
+on_publish
+Publishing message 2 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273529, 'temperature': 15.799777248019161}'
+on_publish
+Publishing message 3 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273530, 'temperature': 15.787863403464552}'
+on_publish
+Publishing message 4 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273531, 'temperature': 15.775931984925396}'
+on_publish
+Publishing message 5 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273532, 'temperature': 15.757599846660394}'
+on_publish
+Publishing message 6 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273533, 'temperature': 15.752148123756156}'
+on_publish
+Publishing message 7 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273534, 'temperature': 15.746692415501993}'
+on_publish
+Publishing message 8 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273535, 'temperature': 15.73303403900713}'
+on_publish
+Publishing message 9 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273536, 'temperature': 15.734046089972193}'
+on_publish
+Publishing message 10 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273537, 'temperature': 15.722130734241674}'
+on_publish
+Publishing message 11 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273538, 'temperature': 15.701597011312076}'
+on_publish
+Publishing message 12 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273539, 'temperature': 15.690261797856218}'
+on_publish
+Publishing message 13 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273540, 'temperature': 15.690511817970501}'
+on_publish
+Publishing message 14 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273541, 'temperature': 15.685463625492797}'
+on_publish
+Publishing message 15 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273542, 'temperature': 15.677401778681242}'
+on_publish
+Publishing message 16 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273543, 'temperature': 15.670471304170022}'
+on_publish
+Publishing message 17 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273544, 'temperature': 15.66193914537668}'
+on_publish
+Publishing message 18 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273545, 'temperature': 15.654184583032722}'
+on_publish
+Publishing message 19 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273546, 'temperature': 15.647474398494555}'
+on_publish
+Publishing message 20 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273547, 'temperature': 15.632426151596858}'
+on_publish
+Publishing message 21 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273548, 'temperature': 15.619619423164488}'
+on_publish
+Publishing message 22 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273549, 'temperature': 15.602370218115281}'
+on_publish
+Publishing message 23 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273550, 'temperature': 15.591049259219762}'
+on_publish
+Publishing message 24 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273551, 'temperature': 15.580318203358472}'
+on_publish
+Publishing message 25 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273552, 'temperature': 15.566987016902903}'
+on_publish
+Publishing message 26 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273553, 'temperature': 15.552646881273914}'
+on_publish
+Publishing message 27 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273554, 'temperature': 15.537247666510401}'
+on_publish
+Publishing message 28 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273555, 'temperature': 15.526285914818457}'
+on_publish
+Publishing message 29 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273556, 'temperature': 15.509982098158885}'
+on_publish
+Publishing message 30 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273557, 'temperature': 15.506537859827487}'
+on_publish
+Publishing message 31 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273558, 'temperature': 15.499219318097099}'
+on_publish
+Publishing message 32 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273559, 'temperature': 15.490687103044191}'
+on_publish
+Publishing message 33 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273560, 'temperature': 15.486445763010726}'
+on_publish
+Publishing message 34 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273561, 'temperature': 15.477717255063606}'
+on_publish
+Publishing message 35 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273562, 'temperature': 15.46639802664694}'
+on_publish
+Publishing message 36 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273563, 'temperature': 15.447943211422873}'
+on_publish
+Publishing message 37 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273564, 'temperature': 15.440249472310091}'
+on_publish
+Publishing message 38 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273565, 'temperature': 15.42788691775129}'
+on_publish
+Publishing message 39 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273566, 'temperature': 15.422530042771381}'
+on_publish
+Publishing message 40 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273567, 'temperature': 15.408019746838947}'
+on_publish
+Publishing message 41 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273568, 'temperature': 15.406013867173193}'
+on_publish
+Publishing message 42 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273569, 'temperature': 15.401238477332726}'
+on_publish
+Publishing message 43 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273570, 'temperature': 15.389552350334434}'
+on_publish
+Publishing message 44 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273571, 'temperature': 15.375685910576584}'
+on_publish
+Publishing message 45 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273572, 'temperature': 15.369146174885618}'
+on_publish
+Publishing message 46 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273573, 'temperature': 15.356039473115757}'
+on_publish
+Publishing message 47 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273574, 'temperature': 15.344691277962571}'
+on_publish
+Publishing message 48 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273575, 'temperature': 15.338636959422633}'
+on_publish
+Publishing message 49 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273576, 'temperature': 15.327554031861483}'
+on_publish
+Publishing message 50 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273577, 'temperature': 15.315511221450217}'
+on_publish
+Publishing message 51 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273578, 'temperature': 15.302083127407954}'
+on_publish
+Publishing message 52 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273579, 'temperature': 15.284283238350103}'
+on_publish
+Publishing message 53 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273580, 'temperature': 15.273436688563013}'
+on_publish
+Publishing message 54 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273581, 'temperature': 15.255423687685655}'
+on_publish
+Publishing message 55 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273582, 'temperature': 15.249204469171692}'
+on_publish
+Publishing message 56 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273583, 'temperature': 15.240505707865275}'
+on_publish
+Publishing message 57 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273584, 'temperature': 15.23204122481895}'
+on_publish
+Publishing message 58 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273585, 'temperature': 15.220572229224324}'
+on_publish
+Publishing message 59 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273586, 'temperature': 15.218023448738663}'
+on_publish
+Publishing message 60 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273587, 'temperature': 15.212897777022041}'
+on_publish
+Publishing message 61 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273588, 'temperature': 15.201479374321032}'
+on_publish
+Publishing message 62 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273589, 'temperature': 15.19036898774646}'
+on_publish
+Publishing message 63 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273590, 'temperature': 15.182920723241784}'
+on_publish
+Publishing message 64 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273591, 'temperature': 15.183355671648116}'
+on_publish
+Publishing message 65 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273592, 'temperature': 15.170294001395765}'
+on_publish
+Publishing message 66 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273593, 'temperature': 15.158275866754895}'
+on_publish
+Publishing message 67 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273594, 'temperature': 15.155111876261607}'
+on_publish
+Publishing message 68 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273595, 'temperature': 15.153670400132478}'
+on_publish
+Publishing message 69 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273596, 'temperature': 15.142824402715723}'
+on_publish
+Publishing message 70 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273597, 'temperature': 15.134886642886553}'
+on_publish
+Publishing message 71 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273598, 'temperature': 15.127623949948342}'
+on_publish
+Publishing message 72 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273599, 'temperature': 15.11434305708422}'
+on_publish
+Publishing message 73 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273600, 'temperature': 15.105599726253224}'
+on_publish
+Publishing message 74 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273601, 'temperature': 15.100394109286423}'
+on_publish
+Publishing message 75 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273602, 'temperature': 15.090328183766147}'
+on_publish
+Publishing message 76 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273603, 'temperature': 15.077457278277906}'
+on_publish
+Publishing message 77 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273604, 'temperature': 15.074217211708389}'
+on_publish
+Publishing message 78 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273605, 'temperature': 15.066300013019319}'
+on_publish
+Publishing message 79 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273606, 'temperature': 15.059860537186646}'
+on_publish
+Publishing message 80 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273607, 'temperature': 15.042236633334294}'
+on_publish
+Publishing message 81 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273608, 'temperature': 15.02680067140731}'
+on_publish
+Publishing message 82 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273609, 'temperature': 15.0103024342726}'
+on_publish
+Publishing message 83 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273610, 'temperature': 15.006817396319086}'
+on_publish
+Publishing message 84 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273611, 'temperature': 14.991060462726749}'
+on_publish
+Publishing message 85 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273612, 'temperature': 14.979441089470827}'
+on_publish
+Publishing message 86 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273613, 'temperature': 14.973453482449328}'
+on_publish
+Publishing message 87 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273614, 'temperature': 14.954228034346508}'
+on_publish
+Publishing message 88 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273615, 'temperature': 14.952197869360402}'
+on_publish
+Publishing message 89 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273616, 'temperature': 14.95006078035234}'
+on_publish
+Publishing message 90 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273617, 'temperature': 14.935108119151684}'
+on_publish
+Publishing message 91 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273618, 'temperature': 14.933353839042601}'
+on_publish
+Publishing message 92 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273619, 'temperature': 14.926882427333569}'
+on_publish
+Publishing message 93 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273620, 'temperature': 14.908021503457618}'
+on_publish
+Publishing message 94 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273621, 'temperature': 14.89263418344453}'
+on_publish
+Publishing message 95 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273622, 'temperature': 14.873478963833758}'
+on_publish
+Publishing message 96 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273623, 'temperature': 14.86571915305583}'
+on_publish
+Publishing message 97 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273624, 'temperature': 14.85744272946402}'
+on_publish
+Publishing message 98 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273625, 'temperature': 14.854328236686714}'
+on_publish
+Publishing message 99 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273626, 'temperature': 14.85189048949942}'
+on_publish
+Publishing message 100 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273627, 'temperature': 14.848470948964227}'
+on_publish
+Publishing message 101 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273628, 'temperature': 14.833766682605525}'
+on_publish
+Publishing message 102 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273629, 'temperature': 14.815390215009506}'
+on_publish
+Publishing message 103 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273630, 'temperature': 14.806524600400982}'
+on_publish
+Publishing message 104 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273631, 'temperature': 14.794606153302505}'
+on_publish
+Publishing message 105 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273632, 'temperature': 14.785548436139406}'
+on_publish
+Publishing message 106 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273633, 'temperature': 14.775770422840282}'
+on_publish
+Publishing message 107 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273634, 'temperature': 14.768945144694122}'
+on_publish
+Publishing message 108 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273635, 'temperature': 14.75617299689701}'
+on_publish
+Publishing message 109 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273636, 'temperature': 14.74260428090959}'
+on_publish
+Publishing message 110 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273637, 'temperature': 14.729869054247914}'
+on_publish
+Publishing message 111 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273638, 'temperature': 14.722403261898057}'
+on_publish
+Publishing message 112 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273639, 'temperature': 14.720267078902085}'
+on_publish
+Publishing message 113 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273640, 'temperature': 14.711281492791368}'
+on_publish
+Publishing message 114 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273641, 'temperature': 14.695514703384239}'
+on_publish
+Publishing message 115 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273642, 'temperature': 14.693936614948305}'
+on_publish
+Publishing message 116 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273643, 'temperature': 14.688388343653834}'
+on_publish
+Publishing message 117 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273644, 'temperature': 14.684117358940354}'
+on_publish
+Publishing message 118 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273645, 'temperature': 14.66551667979818}'
+on_publish
+Publishing message 119 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273646, 'temperature': 14.655095144521692}'
+on_publish
+Publishing message 120 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273647, 'temperature': 14.648291608828856}'
+on_publish
+Publishing message 121 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273648, 'temperature': 14.633114344200347}'
+on_publish
+Publishing message 122 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273649, 'temperature': 14.634061918728076}'
+on_publish
+Publishing message 123 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273650, 'temperature': 14.625191534380939}'
+on_publish
+Publishing message 124 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273651, 'temperature': 14.620340990602205}'
+on_publish
+Publishing message 125 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273652, 'temperature': 14.606191940194375}'
+on_publish
+Publishing message 126 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273653, 'temperature': 14.589515170665052}'
+on_publish
+Publishing message 127 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273654, 'temperature': 14.58494537167866}'
+on_publish
+Publishing message 128 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273655, 'temperature': 14.574036299409153}'
+on_publish
+Publishing message 129 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273656, 'temperature': 14.563463796732833}'
+on_publish
+Publishing message 130 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273657, 'temperature': 14.55888975354342}'
+on_publish
+Publishing message 131 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273658, 'temperature': 14.552114653382073}'
+on_publish
+Publishing message 132 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273659, 'temperature': 14.539490194175864}'
+on_publish
+Publishing message 133 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273660, 'temperature': 14.5259699438577}'
+on_publish
+Publishing message 134 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273661, 'temperature': 14.516735371661545}'
+on_publish
+Publishing message 135 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273662, 'temperature': 14.508739487746462}'
+on_publish
+Publishing message 136 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273663, 'temperature': 14.50027205666836}'
+on_publish
+Publishing message 137 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273664, 'temperature': 14.487664815609739}'
+on_publish
+Publishing message 138 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273665, 'temperature': 14.482013137071817}'
+on_publish
+Publishing message 139 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273666, 'temperature': 14.476534015409227}'
+on_publish
+Publishing message 140 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273667, 'temperature': 14.46207915450365}'
+on_publish
+Publishing message 141 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273668, 'temperature': 14.451164782981078}'
+on_publish
+Publishing message 142 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273669, 'temperature': 14.449928484676695}'
+on_publish
+Publishing message 143 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273670, 'temperature': 14.441687086312799}'
+on_publish
+Publishing message 144 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273671, 'temperature': 14.430719164467886}'
+on_publish
+Publishing message 145 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273672, 'temperature': 14.41853424056754}'
+on_publish
+Publishing message 146 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273673, 'temperature': 14.406318146720817}'
+on_publish
+Publishing message 147 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273674, 'temperature': 14.393996200215053}'
+on_publish
+Publishing message 148 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273675, 'temperature': 14.394492333680049}'
+on_publish
+Publishing message 149 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273676, 'temperature': 14.380875089548574}'
+on_publish
+Publishing message 150 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273677, 'temperature': 14.368153400480725}'
+on_publish
+Publishing message 151 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273678, 'temperature': 14.356499890642988}'
+on_publish
+Publishing message 152 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273679, 'temperature': 14.346129457582158}'
+on_publish
+Publishing message 153 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273680, 'temperature': 14.328151529210208}'
+on_publish
+Publishing message 154 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273681, 'temperature': 14.313217379827378}'
+on_publish
+Publishing message 155 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273682, 'temperature': 14.304416733123821}'
+on_publish
+Publishing message 156 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273683, 'temperature': 14.288397554438985}'
+on_publish
+Publishing message 157 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273684, 'temperature': 14.282383334892554}'
+on_publish
+Publishing message 158 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273685, 'temperature': 14.276464843955031}'
+on_publish
+Publishing message 159 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273686, 'temperature': 14.267825513142382}'
+on_publish
+Publishing message 160 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273687, 'temperature': 14.253633797437237}'
+on_publish
+Publishing message 161 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273688, 'temperature': 14.234373618840069}'
+on_publish
+Publishing message 162 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273689, 'temperature': 14.220134030925616}'
+on_publish
+Publishing message 163 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273690, 'temperature': 14.205842682688195}'
+on_publish
+Publishing message 164 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273691, 'temperature': 14.195383776135639}'
+on_publish
+Publishing message 165 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273692, 'temperature': 14.179237470875057}'
+on_publish
+Publishing message 166 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273693, 'temperature': 14.172481138431705}'
+on_publish
+Publishing message 167 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273694, 'temperature': 14.169638293217869}'
+on_publish
+Publishing message 168 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273695, 'temperature': 14.151203000118723}'
+on_publish
+Publishing message 169 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273696, 'temperature': 14.140836033895026}'
+on_publish
+Publishing message 170 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273697, 'temperature': 14.138167854603136}'
+on_publish
+Publishing message 171 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273698, 'temperature': 14.126674929784972}'
+on_publish
+Publishing message 172 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273699, 'temperature': 14.110677042740427}'
+on_publish
+Publishing message 173 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273700, 'temperature': 14.099725014889337}'
+on_publish
+Publishing message 174 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273701, 'temperature': 14.080596691506779}'
+on_publish
+Publishing message 175 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273702, 'temperature': 14.060702159752246}'
+on_publish
+Publishing message 176 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273703, 'temperature': 14.053926411358633}'
+on_publish
+Publishing message 177 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273704, 'temperature': 14.037240015755634}'
+on_publish
+Publishing message 178 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273705, 'temperature': 14.023421780816895}'
+on_publish
+Publishing message 179 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273706, 'temperature': 14.021486192143373}'
+on_publish
+Publishing message 180 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273707, 'temperature': 14.017555655638784}'
+on_publish
+Publishing message 181 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273708, 'temperature': 14.008110524816821}'
+on_publish
+Publishing message 182 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273709, 'temperature': 13.99206767675101}'
+on_publish
+Publishing message 183 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273710, 'temperature': 13.988454442961492}'
+on_publish
+Publishing message 184 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273711, 'temperature': 13.976965361397903}'
+on_publish
+Publishing message 185 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273712, 'temperature': 13.95914111055118}'
+on_publish
+Publishing message 186 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273713, 'temperature': 13.946460184463287}'
+on_publish
+Publishing message 187 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273714, 'temperature': 13.944263755002284}'
+on_publish
+Publishing message 188 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273715, 'temperature': 13.942175223855264}'
+on_publish
+Publishing message 189 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273716, 'temperature': 13.929160216622861}'
+on_publish
+Publishing message 190 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273717, 'temperature': 13.91668358890966}'
+on_publish
+Publishing message 191 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273718, 'temperature': 13.90805877146189}'
+on_publish
+Publishing message 192 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273719, 'temperature': 13.899967215843468}'
+on_publish
+Publishing message 193 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273720, 'temperature': 13.886060736176805}'
+on_publish
+Publishing message 194 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273721, 'temperature': 13.874651153667397}'
+on_publish
+Publishing message 195 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273722, 'temperature': 13.853533704044583}'
+on_publish
+Publishing message 196 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273723, 'temperature': 13.85136833228199}'
+on_publish
+Publishing message 197 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273724, 'temperature': 13.844257259518985}'
+on_publish
+Publishing message 198 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273725, 'temperature': 13.841917032324782}'
+on_publish
+Publishing message 199 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273726, 'temperature': 13.829969991654139}'
+on_publish
+Publishing message 200 of 200: '{'device': 'temp-sensor-buenos-aires', 'timestamp': 1604273727, 'temperature': 13.82124441408549}'
+on_publish
+Finished.
